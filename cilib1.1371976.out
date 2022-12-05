@@ -1,0 +1,291 @@
+[info] welcome to sbt 1.5.5 (Oracle Corporation Java 1.8.0_161)
+[info] loading project definition from /users/pa20/gtambour/cilib3_batch_Aris/project
+[info] loading settings for project root from build.sbt,plugins.sbt ...
+[info] set current project to root (in build file:/users/pa20/gtambour/cilib3_batch_Aris/)
+[success] Total time: 1 s, completed May 21, 2022 3:55:20 PM
+[info] welcome to sbt 1.5.5 (Oracle Corporation Java 1.8.0_161)
+[info] loading project definition from /users/pa20/gtambour/cilib3_batch_Aris/project
+[info] loading settings for project root from build.sbt,plugins.sbt ...
+[info] set current project to root (in build file:/users/pa20/gtambour/cilib3_batch_Aris/)
+[info] compiling 1 Scala source to /users/pa20/gtambour/cilib3_batch_Aris/target/scala-2.12/classes ...
+[info] done compiling
+[info] running (fork) CEC2005 
+[info] results/gbest-pso_50runs_cpv01_2part_30dim_1iter_f20.parquet
+[info] Preparing to run
+[info] results/gbest-pso_50runs_cpv02_2part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv03_2part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv04_2part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv05_2part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv06_2part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv07_2part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv08_2part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv09_2part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv10_2part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv11_2part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv12_2part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv13_2part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv14_2part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv01_3part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv02_3part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv03_3part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv04_3part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv05_3part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv06_3part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv07_3part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv08_3part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv09_3part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv10_3part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv11_3part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv12_3part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv13_3part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv14_3part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv01_4part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv02_4part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv03_4part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv04_4part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv05_4part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv06_4part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv07_4part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv08_4part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv09_4part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv10_4part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv11_4part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv12_4part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv13_4part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv14_4part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv01_5part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv02_5part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv03_5part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv04_5part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv05_5part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv06_5part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv07_5part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv08_5part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv09_5part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv10_5part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv11_5part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv12_5part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv13_5part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv14_5part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv01_7part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv02_7part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv03_7part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv04_7part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv05_7part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv06_7part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv07_7part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv08_7part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv09_7part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv10_7part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv11_7part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv12_7part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv13_7part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv14_7part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv01_10part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv02_10part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv03_10part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv04_10part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv05_10part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv06_10part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv07_10part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv08_10part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv09_10part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv10_10part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv11_10part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv12_10part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv13_10part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv14_10part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv01_20part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv02_20part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv03_20part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv04_20part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv05_20part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv06_20part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv07_20part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv08_20part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv09_20part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv10_20part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv11_20part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv12_20part_30dim_1iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv13_20part_30dim_15000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv14_20part_30dim_15000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv01_30part_30dim_10000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv02_30part_30dim_10000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv03_30part_30dim_10000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv04_30part_30dim_10000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv05_30part_30dim_10000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv06_30part_30dim_10000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv07_30part_30dim_10000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv08_30part_30dim_10000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv09_30part_30dim_10000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv10_30part_30dim_10000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv11_30part_30dim_10000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv12_30part_30dim_10000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv13_30part_30dim_10000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv14_30part_30dim_10000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv01_40part_30dim_7500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv02_40part_30dim_7500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv03_40part_30dim_7500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv04_40part_30dim_7500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv05_40part_30dim_7500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv06_40part_30dim_7500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv07_40part_30dim_7500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv08_40part_30dim_7500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv09_40part_30dim_7500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv10_40part_30dim_7500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv11_40part_30dim_7500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv12_40part_30dim_7500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv13_40part_30dim_7500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv14_40part_30dim_7500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv01_50part_30dim_6000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv02_50part_30dim_6000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv03_50part_30dim_6000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv04_50part_30dim_6000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv05_50part_30dim_6000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv06_50part_30dim_6000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv07_50part_30dim_6000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv08_50part_30dim_6000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv09_50part_30dim_6000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv10_50part_30dim_6000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv11_50part_30dim_6000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv12_50part_30dim_6000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv13_50part_30dim_6000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv14_50part_30dim_6000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv01_70part_30dim_4286iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv02_70part_30dim_4286iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv03_70part_30dim_4286iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv04_70part_30dim_4286iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv05_70part_30dim_4286iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv06_70part_30dim_4286iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv07_70part_30dim_4286iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv08_70part_30dim_4286iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv09_70part_30dim_4286iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv10_70part_30dim_4286iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv11_70part_30dim_4286iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv12_70part_30dim_4286iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv13_70part_30dim_4286iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv14_70part_30dim_4286iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv01_100part_30dim_3000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv02_100part_30dim_3000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv03_100part_30dim_3000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv04_100part_30dim_3000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv05_100part_30dim_3000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv06_100part_30dim_3000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv07_100part_30dim_3000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv08_100part_30dim_3000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv09_100part_30dim_3000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv10_100part_30dim_3000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv11_100part_30dim_3000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv12_100part_30dim_3000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv13_100part_30dim_3000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv14_100part_30dim_3000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv01_200part_30dim_1500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv02_200part_30dim_1500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv03_200part_30dim_1500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv04_200part_30dim_1500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv05_200part_30dim_1500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv06_200part_30dim_1500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv07_200part_30dim_1500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv08_200part_30dim_1500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv09_200part_30dim_1500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv10_200part_30dim_1500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv11_200part_30dim_1500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv12_200part_30dim_1500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv13_200part_30dim_1500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv14_200part_30dim_1500iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv01_300part_30dim_1000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv02_300part_30dim_1000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv03_300part_30dim_1000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv04_300part_30dim_1000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv05_300part_30dim_1000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv06_300part_30dim_1000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv07_300part_30dim_1000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv08_300part_30dim_1000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv09_300part_30dim_1000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv10_300part_30dim_1000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv11_300part_30dim_1000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv12_300part_30dim_1000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv13_300part_30dim_1000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv14_300part_30dim_1000iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv01_400part_30dim_750iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv02_400part_30dim_750iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv03_400part_30dim_750iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv04_400part_30dim_750iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv05_400part_30dim_750iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv06_400part_30dim_750iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv07_400part_30dim_750iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv08_400part_30dim_750iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv09_400part_30dim_750iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv10_400part_30dim_750iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv11_400part_30dim_750iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv12_400part_30dim_750iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv13_400part_30dim_750iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv14_400part_30dim_750iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv01_500part_30dim_600iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv02_500part_30dim_600iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv03_500part_30dim_600iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv04_500part_30dim_600iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv05_500part_30dim_600iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv06_500part_30dim_600iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv07_500part_30dim_600iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv08_500part_30dim_600iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv09_500part_30dim_600iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv10_500part_30dim_600iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv11_500part_30dim_600iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv12_500part_30dim_600iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv13_500part_30dim_600iter_f20.parquet
+[info] results/gbest-pso_50runs_cpv14_500part_30dim_600iter_f20.parquet
+[error] log4j:WARN No appenders could be found for logger (com.github.mjakubowski84.parquet4s.ParquetWriter$).
+[error] log4j:WARN No appenders could be found for logger (com.github.mjakubowski84.parquet4s.ParquetWriter$).
+[error] log4j:WARN Please initialize the log4j system properly.
+[error] log4j:WARN No appenders could be found for logger (com.github.mjakubowski84.parquet4s.ParquetWriter$).
+[error] log4j:WARN Please initialize the log4j system properly.
+[error] log4j:WARN No appenders could be found for logger (com.github.mjakubowski84.parquet4s.ParquetWriter$).
+[error] log4j:WARN Please initialize the log4j system properly.
+[error] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[error] log4j:WARN No appenders could be found for logger (com.github.mjakubowski84.parquet4s.ParquetWriter$).
+[error] log4j:WARN Please initialize the log4j system properly.
+[error] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[error] log4j:WARN No appenders could be found for logger (com.github.mjakubowski84.parquet4s.ParquetWriter$).
+[error] log4j:WARN Please initialize the log4j system properly.
+[error] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[error] log4j:WARN No appenders could be found for logger (com.github.mjakubowski84.parquet4s.ParquetWriter$).
+[error] log4j:WARN Please initialize the log4j system properly.
+[error] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[error] log4j:WARN No appenders could be found for logger (com.github.mjakubowski84.parquet4s.ParquetWriter$).
+[error] log4j:WARN Please initialize the log4j system properly.
+[error] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[error] log4j:WARN No appenders could be found for logger (com.github.mjakubowski84.parquet4s.ParquetWriter$).
+[error] log4j:WARN Please initialize the log4j system properly.
+[error] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[error] log4j:WARN No appenders could be found for logger (com.github.mjakubowski84.parquet4s.ParquetWriter$).
+[error] log4j:WARN Please initialize the log4j system properly.
+[error] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[error] log4j:WARN No appenders could be found for logger (com.github.mjakubowski84.parquet4s.ParquetWriter$).
+[error] log4j:WARN Please initialize the log4j system properly.
+[error] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[error] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[error] log4j:WARN No appenders could be found for logger (com.github.mjakubowski84.parquet4s.ParquetWriter$).
+[error] log4j:WARN Please initialize the log4j system properly.
+[error] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[error] log4j:WARN No appenders could be found for logger (com.github.mjakubowski84.parquet4s.ParquetWriter$).
+[error] log4j:WARN Please initialize the log4j system properly.
+[error] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[error] log4j:WARN No appenders could be found for logger (com.github.mjakubowski84.parquet4s.ParquetWriter$).
+[error] log4j:WARN Please initialize the log4j system properly.
+[error] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[error] log4j:WARN No appenders could be found for logger (com.github.mjakubowski84.parquet4s.ParquetWriter$).
+[error] log4j:WARN Please initialize the log4j system properly.
+[error] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[error] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[error] log4j:WARN No appenders could be found for logger (com.github.mjakubowski84.parquet4s.ParquetWriter$).
+[error] log4j:WARN Please initialize the log4j system properly.
+[error] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[error] log4j:WARN No appenders could be found for logger (com.github.mjakubowski84.parquet4s.ParquetWriter$).
+[error] log4j:WARN Please initialize the log4j system properly.
+[error] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[error] log4j:WARN No appenders could be found for logger (com.github.mjakubowski84.parquet4s.ParquetWriter$).
+[error] log4j:WARN Please initialize the log4j system properly.
+[error] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+[error] log4j:WARN Please initialize the log4j system properly.
+[error] log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.

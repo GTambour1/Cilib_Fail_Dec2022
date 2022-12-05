@@ -1,0 +1,3 @@
+/var/spool/slurmd/job1371976/slurm_script: line 62: export: -J: invalid option
+export: usage: export [-fn] [name[=value] ...] or export -p
+slurmstepd: error: *** JOB 1371976 ON node425 CANCELLED AT 2022-05-26T15:55:33 DUE TO TIME LIMIT ***

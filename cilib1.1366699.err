@@ -1,0 +1,2 @@
+/var/spool/slurmd/job1366699/slurm_script: line 62: export: -J: invalid option
+export: usage: export [-fn] [name[=value] ...] or export -p

@@ -1,0 +1,19 @@
+[info] welcome to sbt 1.5.5 (Oracle Corporation Java 1.8.0_161)
+[info] loading project definition from /users/pa20/gtambour/cilib3_batch_Aris/project
+[info] loading settings for project root from build.sbt,plugins.sbt ...
+[info] set current project to root (in build file:/users/pa20/gtambour/cilib3_batch_Aris/)
+[success] Total time: 1 s, completed May 10, 2022 10:07:36 AM
+[info] welcome to sbt 1.5.5 (Oracle Corporation Java 1.8.0_161)
+[info] loading project definition from /users/pa20/gtambour/cilib3_batch_Aris/project
+[info] loading settings for project root from build.sbt,plugins.sbt ...
+[info] set current project to root (in build file:/users/pa20/gtambour/cilib3_batch_Aris/)
+[info] compiling 1 Scala source to /users/pa20/gtambour/cilib3_batch_Aris/target/scala-2.12/classes ...
+[error] /users/pa20/gtambour/cilib3_batch_Aris/src/main/scala/Main.scala:65:54: type mismatch;
+[error]  found   : cilib.NonEmptyVector[Double]
+[error]  required: benchmarks.AtLeast2List[Double]
+[error]     (which expands to)  benchmarks.AtLeast2List.newtypeF.Type[Double]
+[error]       Feasible(benchmarks.cec.cec2005.Benchmarks.f22(x))
+[error]                                                      ^
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 18 s, completed May 10, 2022 10:07:58 AM
